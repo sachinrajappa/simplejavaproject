@@ -7,7 +7,7 @@
     <!-- Basic Project Information -->
     <groupId>org.example</groupId>
     <artifactId>simplejavaproject</artifactId>
-    <version>1.0.0</version> <!-- Updated version to a more typical format -->
+    <version>1.0.1</version> <!-- Updated version to a more typical format -->
     <packaging>jar</packaging> <!-- Added packaging type as JAR -->
 
     <dependencies>
