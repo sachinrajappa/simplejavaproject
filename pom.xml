@@ -37,11 +37,6 @@
             <name>maven-releases</name>
             <url>http://43.205.213.107:8081/repository/maven-releases/</url> <!-- Updated URL -->
         </repository>
-        <repository>
-            <id>maven-snapshots</id>
-            <name>maven-snapshots</name>
-            <url>http://43.205.213.107:8081/repository/maven-snapshots/</url> <!-- Updated URL -->
-        </repository>
     </repositories>
 
     <properties>
