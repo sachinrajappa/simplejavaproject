@@ -35,6 +35,11 @@
             <name>maven-releases</name>
             <url>http://13.232.12.194:8081/repository/maven-releases/</url>
         </repository>
+         <repository>
+            <id>maven-snapshots</id>
+            <name>maven-snapshots</name>
+            <url>http://13.232.12.194:8081/repository/maven-releases/</url>
+        </repository> 
     </repositories>
 
     <properties>
