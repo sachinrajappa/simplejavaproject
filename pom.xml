@@ -7,7 +7,7 @@
     <!-- Basic Project Information -->
     <groupId>org.example</groupId>
     <artifactId>simplejavaproject</artifactId>
-    <version>1.0.1</version> <!-- Updated version to a more typical format -->
+    <version>1.0.0</version> <!-- Updated version to a more typical format -->
     <packaging>jar</packaging> <!-- Added packaging type as JAR -->
 
     <dependencies>
@@ -18,26 +18,8 @@
         </dependency>
     </dependencies>
 
-    <!-- Deployment repositories -->
-    <distributionManagement>
-        <repository>
-            <id>maven-releases</id>
-            <url>http://43.205.213.107:8081/repository/maven-releases/</url> <!-- Updated URL -->
-        </repository>
-        <snapshotRepository>
-            <id>maven-snapshots</id>
-            <url>http://43.205.213.107:8081/repository/maven-snapshots/</url> <!-- Updated URL -->
-        </snapshotRepository>
-    </distributionManagement>
 
-    <!-- Repository for downloading dependencies -->
-    <repositories>
-        <repository>
-            <id>maven-releases</id>
-            <name>maven-releases</name>
-            <url>http://43.205.213.107:8081/repository/maven-releases/</url> <!-- Updated URL -->
-        </repository>
-    </repositories>
+
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
